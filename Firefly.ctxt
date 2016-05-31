@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=xy
+comment0.target=Firefly(int[])
+comment1.params=
+comment1.target=int[]\ getRandomCoord()
+comment10.params=
+comment10.target=double\ getT()
+comment11.params=g
+comment11.target=void\ drawKuramoto(java.awt.Graphics)
+comment2.params=g
+comment2.target=void\ display(java.awt.Graphics)
+comment3.params=
+comment3.target=void\ updatePhase()
+comment4.params=
+comment4.target=void\ adjustAll()
+comment5.params=
+comment5.target=void\ adjust()
+comment6.params=
+comment6.target=double\ randomPhase()
+comment7.params=
+comment7.target=double\ randomFreq()
+comment8.params=
+comment8.target=double\ getPhase()
+comment9.params=
+comment9.target=double\ getFreq()
+numComments=12
